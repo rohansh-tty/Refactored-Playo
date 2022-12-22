@@ -2,6 +2,7 @@
 Platform for sports enthusiasts to find and join sports events near them. 
 
 ## Features
+- Register/Login Page
 - Browse a list of available sports events in your area
 - View details about each event, including location, date and time, and number of participants
 - Join events you are interested in and receive notifications about upcoming events
@@ -9,10 +10,14 @@ Platform for sports enthusiasts to find and join sports events near them.
 
 ## Getting Started
 
-- Go to the Sports Event Finder website and create a user account.
-- Complete your profile and start browsing the list of available events.
-- Join the events that interest you and receive notifications about upcoming events.
-- You can also create your own events by clicking on the "Create Event" button in the app
+Start the Client
+
+```bash
+ cd playo
+ npm i
+ npm run dev
+```
 
 ## API Endpoints
 - YET TO BE CREATED
+
