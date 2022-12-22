@@ -1,5 +1,5 @@
 # Play0 ⚽
-Platform for sports enthusiasts to find and join sports events near them. 
+Platform for sports enthusiasts to find and join sports events near them. Built using Next.js and Auth0 
 
 ## Features
 - Register/Login Page
