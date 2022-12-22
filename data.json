@@ -1,0 +1,45 @@
+Event:[
+    Name: "Test Event",
+    Description: "This is a test event",
+    Start: "2018-01-01T00:00:00",
+    End: "2018-01-01T00:00:00",
+    Location: "Test Location",
+    Participants: [
+        {
+            Name: "Test Participant",
+            Email: "",
+            Phone: "",}
+]
+
+Participant:[
+    Name: "Test Participant",
+    Email: "",
+    Phone: "",
+    BookedEvents: [
+        {
+            Name: "Test Event",
+            Description: "This is a test event",
+            Start: "2018-01-01T",
+            End: "2018-01-01T",
+            Location: "Test Location",
+            Participants: [
+                {
+                    Name: "Test Participant",
+                    Email: "",
+                    Phone: "",}],
+    EventsHosted: [
+        {
+            Name: "Test Event",
+            Description: "This is a test event",
+            Start: "2018-01-01T",
+            End: "2018-01-01T",
+            Location: "Test Location",
+            Participants: [
+                {
+                    Name: "Test Participant",
+                    Email: "",
+                    Phone: "",}
+
+        }
+    ]
+]

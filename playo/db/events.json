@@ -1,0 +1,96 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "name": "Event 1",
+            "description": "Event 1 description",
+            "date": "2015-01-01",
+            "time": "12:00:00",
+            "location": "Event 1 location",
+            "price": "0.00",
+            "hostedby": "participant 1",
+            "participants": [
+                {
+                    "id": 1,
+                    "name": "Participant 1",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Participant 2",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Participant 3",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image3.jpg"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Event 2",
+            "description": "Event 2 description",
+            "date": "2015-01-02",
+            "price": "0.00",
+            
+            "time": "12:00:00",
+            "location": "Event 2 location",
+            "hostedby": "participant 2",
+            "participants": [
+                {
+                    "id": 1,
+                    "name": "Participant 1",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Participant 2",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Participant 3",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image3.jpg"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Event 3",
+            "description": "Event 3 description",
+            "date": "2015-01-03",
+            "time": "12:00:00",
+            "price": "0.00",
+
+            "location": "Event 3 location",
+            "hostedby": "participant 2",
+            "participants": [
+                {
+                    "id": 1,
+                    "name": "Participant 1",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Participant 2",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image2.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Participant 3",
+                    "email": "test@email.com",
+                    "image": "http://www.example.com/image3.jpg"
+                }
+            ]
+        }
+    ]
+}
